@@ -21,7 +21,7 @@ function SearchBox() {
         <input type='text' 
             onChange={e => setInput(e.target.value)}
             placeholder='search keywords' 
-            className="flex-1 w-full h-14 rounded-sm placeholder-gray-500 text-gray-500 outline-none bg-transparent dark:text-red-400"
+            className="flex-1 w-full h-14 rounded-sm placeholder-gray-500 text-gray-500 outline-none bg-transparent dark:text-white"
         />
         <button disabled={!input}
             className='text-red-400 disabled:text-gray-400'
