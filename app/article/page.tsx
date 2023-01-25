@@ -30,9 +30,9 @@ function ArticlePage({ searchParams }: Props) {
                 <div className="flex divide-x-2 space-x-4">
                     <h2 className="font-bold">by: {article.author || 'unknown'}</h2>
                     <h2 className="font-bold pl-4">source: {article.source}</h2>
-                    <div className="pl-4">
+                    {/* <div className="pl-4">
                         <LiveTimeStamp time={article.published_at} />    
-                    </div>
+                    </div> */}
                 </div>
 
                 <p className="pt-4">{article.description}</p>

@@ -23,13 +23,13 @@ function Article({article}: Props) {
                     <p className="text-xs line-clamp-3">{article.description}</p>
                 </section>
                 <footer className="text-xs text-right ml-auto flex space-x-1 pt-5 italic text-gray-400">
-                    <p>{article.source} -</p>
+                    <p>{article.source}</p>
                     <div>
                         <LiveTimeStamp time={article.published_at} />
                     </div>
                 </footer>
             </div>
-            <ReadMoreButton article={article} />
+            {/* <ReadMoreButton article={article} /> */}
         </div>
     </article>
   )
