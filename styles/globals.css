@@ -8,6 +8,6 @@
     }
 
     .headerTitle {
-        @apply text-4xl capitalize px-10 pt-5 underline decoration-red-400 decoration-2 underline-offset-4 decoration-double
+        @apply text-4xl px-10 pt-5 underline decoration-red-400 decoration-2 underline-offset-4 decoration-double
     }
 }
