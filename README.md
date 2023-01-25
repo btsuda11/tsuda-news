@@ -6,7 +6,6 @@
 ---
 **tsuda news** is a live news feed website that allows users to view news articles based on certain categories or searching keywords. It features a beautiful dark mode that toggles between a light and dark UI depending on the user's preference.
 <br>
-<br>
 
 ## Technologies Implemented
 ---
@@ -15,7 +14,6 @@
 * React
 * GraphQL
 * Tailwind CSS
-<br>
 <br>
 
 ## Features
