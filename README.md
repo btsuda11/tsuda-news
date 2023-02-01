@@ -1,6 +1,6 @@
 # tsuda news
 
-[Click to view!]()
+[Click to view!](https://tsuda-news-btsuda11.vercel.app)
 
 ## Background
 ---
